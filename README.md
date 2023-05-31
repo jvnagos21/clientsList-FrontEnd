@@ -1,10 +1,35 @@
-# Getting Started with Create React App
+# 🌸 WELCOME TO SAKURA BANK 🌸
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Banco para registros de clientes e seus Contatos !
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). -->
 
-## Available Scripts
+## 👨‍💻 Tecnologias Utilizadas 👨‍💻
 
-In the project directory, you can run:
+nesse projeto foi usado:
+- Typescript
+- React 
+- CSS
+- Bibliotecas React
+- Vercel (para o deploy do projeto) 
+
+## 🤔 O Que pode fazer nesse projeto? 🤔
+
+nesse projeto pode: 
+- registrar um cliente
+- deletar um cliente
+- editar dados de um cliente
+- registrar um contato em um cliente
+- editar um contato de cliente
+- deletar um contato de um cliente
+
+## ⚠️⚠️ ATENÇÃO ⚠️⚠️ 
+
+Esse código está rodando em um banco de dados com memória limitada (20MB) então por favor
+evitar encher o banco com usuários e contatos, esse código tem fins de demonstração e educativo então 
+não use ele para registros reais, quando utilizar favor deletar os usuários que registrou.
+
+
+## Para rodar esse código em yarn (for devs)
 
 ### `yarn start`
 
@@ -39,32 +64,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
