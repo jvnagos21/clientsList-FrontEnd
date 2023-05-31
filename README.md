@@ -6,11 +6,10 @@ Banco para registros de clientes e seus Contatos !
 ## 👨‍💻 Tecnologias Utilizadas 👨‍💻
 
 nesse projeto foi usado:
-- Typescript
-- React 
-- CSS
-- Bibliotecas React
-- Vercel (para o deploy do projeto) 
+- [NodeJS](https://nodejs.org/en/)
+- [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- Bibliotecas React 
 
 ## 🤔 O Que pode fazer nesse projeto? 🤔
 
